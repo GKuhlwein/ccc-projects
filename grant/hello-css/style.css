@@ -1,8 +1,15 @@
 h1 {
     text-align: center;
     color: blue;
+	font-family:Courier;
 }
 
 body {
-    background-color: #DDDDDD;
+    background-color: #adf578;
+}
+a{
+text-decoration:none;
+}
+p{
+text-align:center;
 }
