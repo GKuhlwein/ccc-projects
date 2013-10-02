@@ -1,7 +1,11 @@
 h1 {
     text-align: center;
     color: blue;
-	font-family:Courier;
+	font-family:Segoe Script;
+	border:10px solid #abc123;
+	background-color:#adc578;
+	width:300px;
+	font-size:25px;
 }
 
 body {
