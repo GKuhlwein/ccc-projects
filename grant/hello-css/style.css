@@ -17,3 +17,6 @@ text-decoration:none;
 p{
 text-align:center;
 }
+span p{
+color:yellow;
+}
